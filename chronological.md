@@ -186,7 +186,6 @@ List by
 - [Formik](https://formik.org/): UI Library ([2017](https://www.npmjs.com/package/formik?activeTab=versions))
 - [Immer](https://immerjs.github.io/immer): Utility Library ([2017](https://github.com/immerjs/immer/blob/a7b9e3b1b3825bef15153325400a222c21a8b052/changelog.md))
 - [NestJS](https://nestjs.com): Framework ([2017](https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions))
-- [Netlify](https://netlify.com): Deployment & Hosting ([2017](https://netlify.com))
 - [Parcel](https://parceljs.org): Build Tool ([2017](https://www.npmjs.com/package/parcel-bundler?activeTab=versions))
 - [Prettier](https://prettier.io): Code Formatter ([2017](https://archive.jlongster.com/prettier-1.0))
 - [polished](https://polished.js.org/): Library ([2017](https://www.npmjs.com/package/polished?activeTab=versions))

@@ -65,7 +65,6 @@ List by
 ### Deployment & Hosting
 - [Cloudflare](https://www.cloudflare.com/) ([2010](https://www.cloudflare.com/our-story/))
 - [GitHub Pages](https://pages.github.com/) ([2008](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/))
-- [Netlify](https://netlify.com) ([2017](https://netlify.com))
 - [Render](https://render.com/) ([2019](https://render.com/about))
 - [Vercel](https://vercel.com/) ([2015](https://en.wikipedia.org/wiki/Vercel))
 
