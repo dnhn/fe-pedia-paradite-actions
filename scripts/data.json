@@ -681,13 +681,6 @@
       "year_created_source": "https://www.npmjs.com/package/@nestjs/core/v/1.0.2?activeTab=versions"
     },
     {
-      "name": "Netlify",
-      "url": "https://netlify.com",
-      "type": "Deployment & Hosting",
-      "year_created": 2017,
-      "year_created_source": "https://netlify.com"
-    },
-    {
       "name": "Next.js",
       "url": "https://nextjs.org",
       "type": "Framework",
